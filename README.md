@@ -67,7 +67,7 @@ This project relies heavily on concepts from *Number Theory*:
 
 ## 👥 Authors
  **Malik Aliyan Zawar** (2025-CS-166)
- **M. Hamza Qamar** (2025-CS-123)
+ **Muhammad. Hamza Qamar** (2025-CS-123)
 
 
 *University of Engineering and Technology, Lahore* Department of Computer Science
